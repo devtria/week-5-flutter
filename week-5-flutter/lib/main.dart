@@ -55,7 +55,7 @@ class MyPages1 extends StatelessWidget {
                   height: 200,
                   color: Colors.blue,
                   child: const Text(
-                    'Saya minta 500x200, dan berhasil. \n' 
+                    'Saya minta 500x200, dan behasil. \n' 
                     'Selama anak tidak melebihi batas induk maka hasilnya akan sesuai',
                     style: TextStyle(color: Colors.white),
                     textAlign: TextAlign.center,
